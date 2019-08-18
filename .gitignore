@@ -1,2 +1,12 @@
-*.class
-*.log
+# Scala-IDE specific
+
+project/project/
+project/target/
+target/
+logs/
+out/
+
+# IDEA specific
+.idea/
+*.iml
+/*.log
